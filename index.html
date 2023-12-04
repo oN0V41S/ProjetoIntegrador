@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Página Inicial</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <script src="https://cdn.tailwindcss.com" />
+    <script id="tailwindConfig">
+      tailwind.config = {
+        theme: {
+          extend: {
+            boxShadow: {
+              bxheader: "0px 0px 20px 2px #4B4B4B",
+            },
+            colors: {
+              fundo: "#202020",
+              white: "#ffffff",
+            },
+            backgroundImage: {
+              "obj-1": "linear-gradient(210deg, #FF1F1F 50.52%, #DB8A98 95.89%)",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body class="bg-[fundo]">
+    <header
+      id="Header"
+      class="flex z-0 content-center w-10/12 bg-[white] rounded-[20px] m-auto shadow-2xl text-xl mt-6 h-14"
+    >
+      <div
+        id="conteudo"
+        class="content-center gap-[44%] flex justify-between m-auto w-11/12 h-3/4"
+      >
+        <img src="" alt="logo" class="m-auto" />
+        <ul class="flex gap-[1%] w-3/6">
+          <li class="h-max m-auto"><a href="">Projeto Integrador</a></li>
+          <li class="h-max m-auto"><a href="">Sobre</a></li>
+        </ul>
+
+      </div>
+    </header>
+    <div class="w-2/5 h-[900px] bg-[#FF1F1F] z-1 -rotate-45">
+        
+    </div>
+  </body>
+</html>
