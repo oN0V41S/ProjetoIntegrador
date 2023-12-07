@@ -10,6 +10,16 @@
       tailwind.config = {
         theme: {
           extend: {
+            width: {
+              'icon': {
+                '1': '64px',
+              },
+            },
+            height: {
+              'icon': {
+                1: '64px',
+              },
+            },
             boxShadow: {
               bxheader: "0px 0px 20px 2px #4B4B4B",
             },
@@ -48,37 +58,38 @@
         </ul>
       </div>
     </header>
-    <main class="bg-fundo-1 text-white w-full h-[4vh]">
-      <section id="titulo" class="m-auto mt-20 w-full ml-24">
-        <h1 class="text-5xl font-bold w-max">
+    <main class="bg-fundo-1 text-white flex flex-col pl-2 md:p-28 ">
+      <section id="titulo" class="mt-20 w-[90%] md:w-max md:mb-40 ml-8">
+        <h1 class="text-5xl font-bold w-full">
           Unidades Curriculares <br />
           do Primeiro Semestre
         </h1>
-        <p class="font-normal w-4/12">
+        <p class="font-normal w-[80%] md:w-4/12 mb-[3vh]">
           Abaixo, você terá acesso a todas as unidades curriculares oferecidas,
           permitindo uma visão abrangente das disciplinas que compõem nosso
           programa educacional.
         </p>
         <a
+          id="btnPIntegrador"
           href="./pIntegrador.html"
-          class="bg-black text-white pl-2 pr-2 rounded-sm mt-5"
+          class="bg-black text-white pl-4 p-2 pr-4 rounded-md mt-40"
           >Projeto Integrador</a
         >
       </section>
 
-      <section id="unidadesCurriculares" class="w-full mt-20">
+      <section id="unidadesCurriculares" class="w-full flex flex-col md:flex-row justify-around mt-20 m-auto">
         <div
-          id="linha1"
-          class="w-11/12 mt-8 m-auto flex flex-col md:flex-row gap-8 md:gap-0 justify-around"
+          id="coluna1"
+          class="m-auto flex flex-col gap-4 justify-around mb-10"
         >
           <div
             id="unidadeFPOO"
-            class="rounded-2xl w-10/12 md:w-4/12 h-max m-auto bg-[#DB8A98]"
+            class="rounded-2xl w-10/12 md:w-[60vh] h-max bg-[#DB8A98]"
           >
             <div class="bg-[#CA546A] rounded-xl">
               <div
                 id="titulo"
-                class="bg-[#C0334D] w-full md:min-h-[30%] flex justify-between rounded-xl"
+                class="bg-[#C0334D] w-full md:min-h-[30vh] flex justify-between rounded-xl"
               >
                 <h1 class="capitalize text-3xl p-4 rounded-xl">
                   fundamento de <br />
@@ -88,7 +99,7 @@
                 <img
                   src="./img/home/FPOO/icon-java.png"
                   alt=""
-                  class="w-[64px] h-[64px] self-end m-4"
+                  class="w-[28px] md:w-[65px] h-[28px] md:h-[65px] self-end m-4"
                 />
               </div>
               <div id="info" class="w-full pt-5 pb-5">
@@ -111,29 +122,29 @@
             </div>
           </div>
           <div
-            id="UnidadeSOP"
-            class="rounded-2xl w-10/12 md:w-4/12 h-max m-auto bg-[#DB8A98]"
+            id="UnidadeLIMA"
+            class="rounded-2xl w-10/12 md:w-[60vh] h-max min-h-[40vh] bg-[#DB8A98]"
           >
             <div class="bg-[#CA546A] rounded-xl">
               <div
                 id="titulo"
-                class="bg-[#C0334D] w-full min-h-[30%] flex justify-between rounded-xl"
+                class="bg-[#C0334D] w-full min-h-[30%] md:min-h-[20vh]  flex justify-between rounded-xl"
               >
-                <h1 class="capitalize text-3xl p-4 rounded-xl">
-                  Sistemas <br />
-                  Operacionais
+                <h1 class="capitalize text-3xl p-4 h-max m-auto rounded-xl">
+                  Linguagem de <br />
+                  Marcação
                 </h1>
                 <img
-                  src="./img/home/SOP/icon-linux.png"
+                  src="./img/home/LIMA/icon-html.png"
                   alt=""
-                  class="w-[64px] h-[64px] self-end m-4"
+                  class="w-[28px] md:w-[65px] h-[28px] md:h-[65px] self-end m-4"
                 />
               </div>
-              <div id="info" class="w-full pt-5 pb-5">
-                <p class="text-sm p-5">
-                  Ensinar sobre a estrutura, funcionamento, instalação,
-                  configuração e operação de sistemas operacionais de código
-                  aberto e fechado.
+              <div id="info" class="w-full pt-5 pb-5 min-h-[30vh]">
+                <p class="text-sm p-5 h-max md:mt-2">
+                  Criar websites, utilizando linguagem de marcação e CSS. As
+                  atividades envolvem a criação de websites pessoais ou
+                  fictícios.
                 </p>
               </div>
             </div>
@@ -141,7 +152,7 @@
               <h1 class="w-max m-auto text-xl">Skills</h1>
               <div class="flex justify-around p-5">
                 <img
-                  src="./img/home/SOP/Frame 2.png"
+                  src="./img/home/LIMA/skillsLIMA.png"
                   class="w-[380px]"
                   alt=""
                 />
@@ -151,12 +162,12 @@
         </div>
 
         <div
-          id="linha2"
-          class="w-11/12 mt-8 m-auto flex flex-col md:flex-row gap-8 md:gap-0 justify-around"
+          id="coluna2"
+          class="m-auto flex flex-col gap-10 md:gap-4 justify-around"
         >
           <div
             id="UnidadeHARE"
-            class="rounded-2xl w-10/12 md:w-4/12 h-max m-auto bg-[#DB8A98]"
+            class="rounded-2xl w-10/12 md:w-[60vh] md:min-width; h-max bg-[#DB8A98]"
           >
             <div class="bg-[#CA546A] rounded-xl">
               <div
@@ -170,7 +181,7 @@
                 <img
                   src="./img/home/HARE/icon-processador.png"
                   alt=""
-                  class="w-[64px] h-[64px] self-end m-4"
+                  class="w-[28px] md:w-[65px] h-[28px] md:h-[65px] self-end m-4"
                 />
               </div>
               <div id="info" class="w-full pt-5 pb-5">
@@ -194,27 +205,29 @@
             </div>
           </div>
           <div
-            id="UnidadeLIMA"
-            class="rounded-2xl w-10/12 md:w-4/12 h-max m-auto bg-[#DB8A98]"
+            id="UnidadeSOP"
+            class="rounded-2xl w-10/12 md:w-[60vh] h-max bg-[#DB8A98]"
           >
             <div class="bg-[#CA546A] rounded-xl">
               <div
                 id="titulo"
-                class="bg-[#C0334D] w-full min-h-[30%] flex justify-between rounded-xl"
+                class="bg-[#C0334D] w-full md:min-h-[30vh]  flex justify-between rounded-xl"
               >
-                <h1 class="capitalize text-3xl p-4 rounded-xl">
-                  Linguagem de <br />
-                  Marcação
+                <h1 class="capitalize text-3xl h-max p-4 m-auto rounded-xl">
+                  Sistemas <br />
+                  Operacionais
                 </h1>
                 <img
-                  src="./img/home/LIMA/icon-html.png"
+                  src="./img/home/SOP/icon-linux.png"
                   alt=""
-                  class="w-[64px] h-[64px] self-end m-4"
+                  class="w-[28px] md:w-[65px] h-[28px] md:h-[65px] self-end m-4"
                 />
               </div>
               <div id="info" class="w-full pt-5 pb-5">
                 <p class="text-sm p-5">
-                  Criar websites, utilizando linguagem de marcação e CSS. As atividades envolvem a criação de websites pessoais ou fictícios.
+                  Ensinar sobre a estrutura, funcionamento, instalação,
+                  configuração e operação de sistemas operacionais de código
+                  aberto e fechado.
                 </p>
               </div>
             </div>
@@ -222,7 +235,7 @@
               <h1 class="w-max m-auto text-xl">Skills</h1>
               <div class="flex justify-around p-5">
                 <img
-                  src="./img/home/LIMA/skillsLIMA.png"
+                  src="./img/home/SOP/skillsSOP.png"
                   class="w-[380px]"
                   alt=""
                 />
@@ -232,8 +245,7 @@
         </div>
       </section>
 
-      <section id="">
-        </section>
+      <section id=""></section>
     </main>
   </body>
 </html>
