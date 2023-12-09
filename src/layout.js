@@ -1,4 +1,4 @@
-import Header from './assets/layout/header'
+import Header from './assets/layout/header.js'
 
 export default function Layout({children}){
     return(

@@ -1,4 +1,4 @@
-import Unidade from "./unidade";
+import Unidade from "./unidade.js";
 
 import icon1 from "../../static/unidades/FPOO/icon-java.png";
 import skiils1 from "../../static/unidades/FPOO/skillsFPOO.png";
