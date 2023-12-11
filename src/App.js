@@ -6,7 +6,7 @@ import Unidades from "./assets/home/unidades.js";
 
 import ProjetoIntegrador from "./assets/home/projetointegrador.js";
 
-export default function App() {
+export default function Home() {
   return (
     <Layout>
       <Titulo />

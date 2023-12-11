@@ -1,7 +1,4 @@
-#checkboxHARE:focus + #hare{
-    display: grid;
-}
-
-#checkboxSOP:checked + #sop{
-    display: grid;
+#btnHare:focus ~ #hare,
+#btnSop:checked ~ #sop {
+  display: grid;
 }
