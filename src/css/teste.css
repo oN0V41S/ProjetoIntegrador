@@ -1,4 +1,4 @@
 #btnHare:focus ~ #hare,
-#btnSop:checked ~ #sop {
+#btnSop:focus ~ #sop {
   display: grid;
 }

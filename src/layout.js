@@ -1,3 +1,4 @@
+import Footer from './assets/layout/footer.js'
 import Header from './assets/layout/header.js'
 
 export default function Layout({children}){
@@ -7,6 +8,7 @@ export default function Layout({children}){
             <main class="pl-[4vh] md:pl-[8vh] pr-[4vh] md:pr-[8vh]">
             {children}
             </main>
+            <Footer/>
         </body>
     )
 }
