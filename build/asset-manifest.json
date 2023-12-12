@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22a2e204.css",
+    "main.js": "/static/js/main.d4209959.js",
+    "static/media/Avatar-Anderson.svg": "/static/media/Avatar-Anderson.5406664b6bc511ae60ee5a711d545cb0.svg",
+    "static/media/Avatar-Lucas.svg": "/static/media/Avatar-Lucas.4460e024a134fa25df735d60d80a73a6.svg",
+    "static/media/Avatar-Hiago.svg": "/static/media/Avatar-Hiago.6ab1b978ad3d1230cae3596e887ad374.svg",
+    "static/media/Avatar-Rafael.svg": "/static/media/Avatar-Rafael.7eac3454dede2b448ea8375a830ee72b.svg",
+    "static/media/Avatar-Daniel.svg": "/static/media/Avatar-Daniel.36213f8f78a0fe3638f369d2eae14a9b.svg",
+    "static/media/senai.svg": "/static/media/senai.7f9105e15b08d951eec9f1475fc38d4a.svg",
+    "index.html": "/index.html",
+    "main.22a2e204.css.map": "/static/css/main.22a2e204.css.map",
+    "main.d4209959.js.map": "/static/js/main.d4209959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a2e204.css",
+    "static/js/main.d4209959.js"
+  ]
+}
