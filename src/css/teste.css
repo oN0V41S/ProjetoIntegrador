@@ -2,8 +2,3 @@
 #btnSop:focus ~ #sop {
   display: block;
 }
-
-label[for="#btnHare"]:focus
-, label[for="#btnSop"]:focus{
-  outline: 1px solid black;
-}

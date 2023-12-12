@@ -12,7 +12,7 @@ export default function Titulo(){
         </p>
         <a
           id="btnPIntegrador"
-          href="./pIntegrador.html"
+          href="#pIntegrador"
           class="bg-black text-white pl-4 p-2 pr-4 w-5/12 md:w-3/12 rounded-md"
           >Projeto Integrador</a>
       </section>
