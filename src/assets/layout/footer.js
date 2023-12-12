@@ -18,13 +18,11 @@ export default function Footer(){
       </div>
 
       <div id="avatar-container" class="grid grid-cols-auto md:grid-cols-1 items-center justify-between">
-
         <Devs avatar={avAnderson} name="Anderson"/>
         <Devs avatar={avDaniel} name="Daniel"/>
         <Devs avatar={avHiago} name="Hiago"/>
         <Devs avatar={avLucas} name="Lucas"/>
         <Devs avatar={avRafael} name="Rafael"/>
-
       </div>
       <div id="senai" class="bg-[#545454] flex justify-around items-center w-full mt-6 p-6">
         <img class="" src={senai} alt="Logo SENAI"/>
