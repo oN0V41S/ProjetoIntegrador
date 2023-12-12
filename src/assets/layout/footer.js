@@ -22,7 +22,7 @@ export default function Footer(){
         <Devs avatar={avAnderson} name="Anderson"/>
         <Devs avatar={avDaniel} name="Daniel"/>
         <Devs avatar={avHiago} name="Hiago"/>
-        <Devs avatar={avLucas} name="Lucas/"/>
+        <Devs avatar={avLucas} name="Lucas"/>
         <Devs avatar={avRafael} name="Rafael"/>
 
       </div>
@@ -41,10 +41,10 @@ export function Devs({name, github, linkedin, avatar}){
           <img class="w-3/5" src={avatar} alt="avatar1"/>
           <h2 class="bg-[#D9D9D9] p-1  pl-4 pr-4 rounded-xl text-black">{name}</h2>
           <div id="espaçamento" class="flex gap-2">
-            <a href={github} target="_blank">
+            <a href={github} className='pointer-auto'>
               <img src={iconGithub} alt="github Avatar1"/>
             </a>
-            <a href={linkedin} target="_blank">
+            <a href={linkedin}> 
               <img src={iconLinkedin} alt="linkedin Avatar1"/>
             </a>
           </div>

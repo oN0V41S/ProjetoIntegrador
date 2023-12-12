@@ -8,8 +8,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "autoprefixer": "latest",
-    "bun": "^1.0.16",
-    "init": "^0.1.2",
     "postcss": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -47,6 +45,9 @@
     "bun-types": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
-  }
+  },
+  "description": "Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
 }

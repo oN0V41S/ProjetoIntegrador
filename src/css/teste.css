@@ -1,4 +1,9 @@
 #btnHare:focus ~ #hare,
 #btnSop:focus ~ #sop {
-  display: grid;
+  display: block;
+}
+
+label[for="#btnHare"]:focus
+, label[for="#btnSop"]:focus{
+  outline: 1px solid black;
 }
