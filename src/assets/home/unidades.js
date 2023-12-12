@@ -23,7 +23,7 @@ export default function Unidades() {
         <Unidade
           id="unidadeHARE"
           titulo="hardware e redes"
-          info="Criar websites, utilizando linguagem de marcação e CSS.As atividades envolvem a criação de websites pessoais ou fictícios."
+          info="Capacitar para o preparo do ambiente de hardware e redes para o funcionamento de sistemas computacionais. Atividades envolvem instalação e configuração de periféricos, sistemas operacionais e serviços de rede."
           srcIcon={icon2}
           srcSkills={skiils2}
         />
@@ -39,9 +39,7 @@ export default function Unidades() {
         <Unidade
           id="UnidadeLIMA"
           titulo="Linguagem de Marcação"
-          info="Ensinar sobre a estrutura, funcionamento, instalação,
-          configuração e operação de sistemas operacionais de código
-          aberto e fechado."
+          info="Criar websites, utilizando linguagem de marcação e CSS.As atividades envolvem a criação de websites pessoais ou fictícios."
           srcIcon={icon4}
           srcSkills={skiils4}
         />
