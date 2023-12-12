@@ -8,15 +8,15 @@ export default function Header () {
     >
       <div
         id="conteudo"
-        class="content-center gap-14 md:gap-12 flex justify-between m-auto w-11/12 h-3/4"
+        class="content-center gap-4 md:gap-12 flex justify-between m-auto w-11/12 h-3/4"
       >
-        <img src={logo} alt="logo" class="w-[120px] rounded-md" />
+        <img src={logo} alt="logo" class="w-44 rounded-md" />
         <ul class="flex gap-[1%] w-3/6">
           <li class="h-max m-auto">
-            <a href="#pIntegrador" class="w-full">Projeto Integrador</a>
+            <a href="#pIntegrador">Projeto Integrador</a>
           </li>
           <li class="h-max m-auto">
-            <a href="#footer">Sobre</a>
+            <a href="#footer">Criadores</a>
           </li>
         </ul>
       </div>
