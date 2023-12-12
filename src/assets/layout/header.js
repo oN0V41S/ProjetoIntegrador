@@ -16,7 +16,7 @@ export default function Header () {
             <a href="#pIntegrador" class="w-full">Projeto Integrador</a>
           </li>
           <li class="h-max m-auto">
-            <a href="./">Sobre</a>
+            <a href="#Avatar">Sobre</a>
           </li>
         </ul>
       </div>
