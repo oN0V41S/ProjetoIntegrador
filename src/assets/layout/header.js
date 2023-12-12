@@ -1,3 +1,5 @@
+import logo from '../../static/header/devwizards.png'
+
 export default function Header () {
   return (
     <header
