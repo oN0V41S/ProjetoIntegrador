@@ -37,7 +37,7 @@ export default function Footer(){
 
 export function Devs({name, github, linkedin, avatar}){
     return(
-        <div id="avatar" class="flex flex-col items-center gap-4 w-1/5">
+        <div id="avatar" class="flex flex-col items-center m-auto gap-4 w-1/5">
           <img class="w-8/12 md:w-3/5" src={avatar} alt="avatar1"/>
           <h2 class="bg-[#D9D9D9] p-1  pl-4 pr-4 rounded-xl text-black">{name}</h2>
           <div id="espaçamento" class="flex gap-2">
