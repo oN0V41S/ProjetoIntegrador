@@ -4,11 +4,11 @@ export default function Header () {
   return (
     <header
       id="Header"
-      class="flex text-black content-center w-11/12 p-0 m-0 bg-[white] rounded-[20px] gap-14 md:gap-12 ml-auto mr-auto m-24 shadow-2xl mt-[4vh] tex-sm md:text-xl h-14"
+      class="flex text-black content-center w-11/12 p-0 m-0 bg-[white] rounded-[20px] ml-auto mr-auto m-24 shadow-2xl mt-[4vh] tex-sm md:text-xl h-14"
     >
       <div
         id="conteudo"
-        class="content-center gap-[44%] flex justify-between m-auto w-11/12 h-3/4"
+        class="content-center gap-14 md:gap-12 flex justify-between m-auto w-11/12 h-3/4"
       >
         <img src={logo} alt="logo" class="m-auto w-[120px] rounded-md" />
         <ul class="flex gap-[1%] w-3/6">
