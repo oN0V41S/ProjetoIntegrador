@@ -13,7 +13,7 @@ export default function Header () {
         <img src="" alt="logo" class="m-auto" />
         <ul class="flex gap-[1%] w-3/6">
           <li class="h-max m-auto">
-            <a href="./" class="w-full">Projeto Integrador</a>
+            <a href="#pIntegrador" class="w-full">Projeto Integrador</a>
           </li>
           <li class="h-max m-auto">
             <a href="./">Sobre</a>
