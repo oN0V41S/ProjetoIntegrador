@@ -17,7 +17,7 @@ export default function Footer(){
         <h1 class="w-max m-auto">Criado e desenvolvido por:</h1>
       </div>
 
-      <div id="avatar-container" class="flex items-center justify-between">
+      <div id="avatar-container" class="grid md:grid-cols-auto items-center justify-between">
 
         <Devs avatar={avAnderson} name="Anderson"/>
         <Devs avatar={avDaniel} name="Daniel"/>
