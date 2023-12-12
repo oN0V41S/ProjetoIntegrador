@@ -10,7 +10,7 @@ export default function Header () {
         id="conteudo"
         class="content-center gap-[44%] flex justify-between m-auto w-11/12 h-3/4"
       >
-        <img src={logo} alt="logo" class="m-auto w-1/3 rounded-md" />
+        <img src={logo} alt="logo" class="m-auto w-[120px] rounded-md" />
         <ul class="flex gap-[1%] w-3/6">
           <li class="h-max m-auto">
             <a href="#pIntegrador" class="w-full">Projeto Integrador</a>
