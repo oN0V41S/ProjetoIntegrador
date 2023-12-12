@@ -2,7 +2,7 @@ import "../../css/teste.css";
 
 export default function ProjetoIntegrador() {
   return (
-    <section id="#pIntegrador" className="w-10/12 m-auto bg-card1 rounded-nm grid mt-10 mb-16">
+    <section id="pIntegrador" className="w-10/12 m-auto bg-card1 rounded-nm grid mt-10 mb-16">
       <h1 className="w-max ml-auto mr-auto text-2xl md:text-4xl mt-4 mb-4">
         Projeto Integrador
       </h1>
