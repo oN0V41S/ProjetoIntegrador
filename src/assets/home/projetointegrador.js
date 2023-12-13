@@ -18,7 +18,7 @@ export default function ProjetoIntegrador() {
         />
         <label
           for="btnHare"
-          className="h-max w-max bg-card2 p-2 ml-4-4 rounded-md grid-cols-span-2"
+          className="h-max w-max bg-card2 p-2 ml-4 rounded-md grid-cols-span-2"
         >
           HARE
         </label>
@@ -31,7 +31,7 @@ export default function ProjetoIntegrador() {
         />
         <label
           for="btnSop"
-          className="h-max w-max bg-card2 p-2 ml-4ml-4 rounded-md grid-cols-span-2"
+          className="h-max w-max bg-card2 p-2 ml-4 rounded-md grid-cols-span-2"
         >
           SOP
         </label>
