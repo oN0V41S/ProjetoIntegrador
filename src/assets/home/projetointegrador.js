@@ -1,4 +1,4 @@
-import videoSOP from '../../static/pintegrador/sop.mp4'
+import videoSOP from "../../static/pintegrador/sop.mp4";
 
 export default function ProjetoIntegrador() {
   return (
@@ -9,7 +9,7 @@ export default function ProjetoIntegrador() {
       <h1 className="w-max ml-auto mr-auto text-2xl md:text-4xl mt-4 mb-4">
         Projeto Integrador
       </h1>
-      <div className="w-full  p-4 rounded-nm min-h-[20vw] gap-8 grid">
+      <div className="w-full  p-4 rounded-nm min-h-[20vw] gap-8 grid grid-cols-2">
         <input
           id="btnHare"
           type="radio"
@@ -35,8 +35,10 @@ export default function ProjetoIntegrador() {
         >
           SOP
         </label>
-
-        <div id="sop" className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md w-full">
+        <div
+          id="sop"
+          className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md w-full col-span-2"
+        >
           <div className="mb-8">
             1. Baixar e Instalar o VirtualBox e a ISO do Linux Ubuntu: Baixe e
             instale o VirtualBox do site oficial. Baixe a iso do Linux Ubuntu
@@ -89,20 +91,14 @@ export default function ProjetoIntegrador() {
             virtual Ubuntu. Lembre-se de ajustar os caminhos conforme
             necessário, dependendo da versão do JDK que você instalou.
           </div>
-          <video
-            src={videoSOP}
-            controls
-            autoplay
-            loop
-            className="w-full"
-          />
+          <video src={videoSOP} controls autoplay loop className="w-full" />
         </div>
 
         <div
           id="hare"
-          className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md w-full"
+          className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md w-full col-span-2"
         >
-          <div>
+          <div className="w-full">
             -=-=-=-=-=-=-=-=-Hardware utilizado-=-=-=-=-=-=-=-=- <br /> <br />
             Nome do dispositivo: DESKTOP-E2HH4LT <br />
             Processador: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz 1.38 GHz{" "}
