@@ -2,8 +2,3 @@
 #btnSop:focus ~ #sop {
   display: block;
 }
-
-#hare:focus,
-#sop:focus{
-  display: block;
-}
