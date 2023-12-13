@@ -39,6 +39,7 @@ export default function Footer() {
           <Devs
             avatar={avHiago}
             name="Hiago"
+            github="https://github.com/HyRss"
             linkedin="https://www.linkedin.com/in/hiago-r-santos-b20ba5277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           />
           <Devs
