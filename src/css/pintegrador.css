@@ -1,5 +1,5 @@
-#btnHare:checked ~ #hare,
-#btnSop:checked ~ #sop {
+#btnHare:focus ~ #hare,
+#btnSop:focus ~ #sop {
   display: block;
 }
 
