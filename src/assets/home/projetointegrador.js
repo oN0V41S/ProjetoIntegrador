@@ -38,9 +38,7 @@ export default function ProjetoIntegrador() {
             autoplay
             loop
             className="w-full"
-          >
-            Seu navegador não suporta a reprodução de vídeos.
-          </video>
+          />
         </div>
 
         <div id="hare" className="hidden col-span-2 mt-4">
