@@ -36,7 +36,7 @@ export default function ProjetoIntegrador() {
           SOP
         </label>
 
-        <div id="sop" className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md">
+        <div id="sop" className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md w-full">
           <div className="mb-8">
             1. Baixar e Instalar o VirtualBox e a ISO do Linux Ubuntu: Baixe e
             instale o VirtualBox do site oficial. Baixe a iso do Linux Ubuntu
@@ -100,7 +100,7 @@ export default function ProjetoIntegrador() {
 
         <div
           id="hare"
-          className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md"
+          className="hidden mt-4 mb-4 flex bg-card2 p-5 rounded-md w-full"
         >
           <div>
             -=-=-=-=-=-=-=-=-Hardware utilizado-=-=-=-=-=-=-=-=- <br /> <br />
