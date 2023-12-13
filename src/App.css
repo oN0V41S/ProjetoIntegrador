@@ -2,5 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Importando CSS */
+@import url("./css/pintegrador.css");
+
 /* Importando Fontes */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
