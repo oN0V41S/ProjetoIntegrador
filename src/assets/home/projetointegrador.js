@@ -4,7 +4,7 @@ export default function ProjetoIntegrador() {
   return (
     <section
       id="pIntegrador"
-      className="w-11/12 m-auto bg-card1 rounded-nm grid mt-16 mb-16 p-12"
+      className="w-11/12 m-auto bg-card1 rounded-nm grid mt-16 mb-16 p-4 md:p-12"
     >
       <h1 className="w-max ml-auto mr-auto text-2xl md:text-4xl mt-4 mb-4">
         Projeto Integrador
