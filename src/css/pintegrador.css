@@ -5,5 +5,5 @@
 
 #btnHare:focus + label,
 #btnSop:focus + label{
-  background-color: #DB8A98P;
+  background-color: ('#DB8A98P');
 }

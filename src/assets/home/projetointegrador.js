@@ -121,7 +121,7 @@ export default function ProjetoIntegrador() {
             -Acesso a rede: Rede Cabeada/ Wireless & Ethernet; <br />
             <div class="flex flex-col">
               -Internet:
-              <ul class="ml-2">
+              <ul class="ml-2 w-full">
                 <li>IP Publico: 189.108.199.98</li>
                 <li>IP Local: 10.105.71.134(Preferencial)</li>
                 <li>Sub-rede: 255.255.255.128</li>
