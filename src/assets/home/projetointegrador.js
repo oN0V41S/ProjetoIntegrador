@@ -2,7 +2,10 @@ import "../../css/teste.css";
 
 export default function ProjetoIntegrador() {
   return (
-    <section id="pIntegrador" className="w-10/12 m-auto bg-card1 rounded-nm grid mt-10 mb-16">
+    <section
+      id="pIntegrador"
+      className="w-9/12 m-auto bg-card1 rounded-nm grid mt-16 mb-16"
+    >
       <h1 className="w-max ml-auto mr-auto text-2xl md:text-4xl mt-4 mb-4">
         Projeto Integrador
       </h1>
@@ -13,7 +16,9 @@ export default function ProjetoIntegrador() {
           value="unidade"
           className="opacity-0 absolute pointer-events-none"
         />
-        <label for="btnHare" className="h-max w-max bg-card2 p-2 rounded-md">HARE</label>
+        <label for="btnHare" className="h-max w-max bg-card2 p-2 rounded-md">
+          HARE
+        </label>
 
         <input
           id="btnSop"
@@ -21,11 +26,19 @@ export default function ProjetoIntegrador() {
           value="unidade"
           className="opacity-0 absolute pointer-events-none"
         />
-        <label for="btnSop" className="h-max w-max bg-card2 p-2 3 rounded-md">SOP</label>
+        <label for="btnSop" className="h-max w-max bg-card2 p-2 3 rounded-md">
+          SOP
+        </label>
 
         <div id="sop" className="hidden col-span-2 mt-4">
           Texto SOP
-          <video src="https://example.com/video.mp4" controls autoplay loop className="w-full">
+          <video
+            src="https://example.com/video.mp4"
+            controls
+            autoplay
+            loop
+            className="w-full"
+          >
             Seu navegador não suporta a reprodução de vídeos.
           </video>
         </div>

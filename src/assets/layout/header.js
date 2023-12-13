@@ -1,6 +1,6 @@
-import logo from '../../static/header/devwizards.png'
+import logo from "../../static/header/devwizards.png";
 
-export default function Header () {
+export default function Header() {
   return (
     <header
       id="Header"
@@ -10,8 +10,8 @@ export default function Header () {
         id="conteudo"
         class="content-center gap-4 md:gap-12 flex justify-between m-auto w-11/12 h-3/4"
       >
-        <img src={logo} alt="logo" class="w-44 rounded-md" />
-        <ul class="flex gap-[1%] w-3/6">
+        <img src={logo} alt="logo" class="h-full rounded-md m-auto md:m-0" />
+        <ul class="gap-[1%] w-3/6 hidden md:flex">
           <li class="h-max m-auto">
             <a href="#pIntegrador">Projeto Integrador</a>
           </li>

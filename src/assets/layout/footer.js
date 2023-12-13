@@ -27,17 +27,32 @@ export default function Footer() {
           <Devs
             avatar={avAnderson}
             name="Anderson"
-            github=""
-            linkedin="https://www.linkedin.com/in/hiago-r-santos-b20ba5277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            github="http://github.com/andersonbs96"
+            linkedin="http://www.linkedin.com/in/anderson-brito-05a8a4181"
           />
           <Devs
             avatar={avDaniel}
             name="Daniel"
-            github="https://github.com/LucasVasconcelosDev"
+            github="https://github.com/ren-angel"
+            linkedin="https://br.linkedin.com/in/daniel-medrado-de-morais-79073b299"
           />
-          <Devs avatar={avHiago} name="Hiago" />
-          <Devs avatar={avLucas} name="Lucas" />
-          <Devs avatar={avRafael} name="Rafael" />
+          <Devs
+            avatar={avHiago}
+            name="Hiago"
+            linkedin="https://www.linkedin.com/in/hiago-r-santos-b20ba5277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          />
+          <Devs
+            avatar={avLucas}
+            name="Lucas"
+            github="https://github.com/LucasVasconcelosDev"
+            linkedin="https://www.linkedin.com/in/lucas-vasconcelos-1a030920a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          />
+          <Devs
+            avatar={avRafael}
+            name="Rafael"
+            github="https://github.com/oN0V41S"
+            linkedin="https://www.linkedin.com/in/rafaelnovais042?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          />
         </div>
         <div
           id="senai"
