@@ -1,3 +1,5 @@
+import videoSOP from '../../static/pintegrador/sop.mp4'
+
 export default function ProjetoIntegrador() {
   return (
     <section
@@ -88,7 +90,7 @@ export default function ProjetoIntegrador() {
             necessário, dependendo da versão do JDK que você instalou.
           </div>
           <video
-            src="https://example.com/video.mp4"
+            src={videoSOP}
             controls
             autoplay
             loop
