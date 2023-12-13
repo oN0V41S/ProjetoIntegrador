@@ -93,7 +93,7 @@ export default function ProjetoIntegrador() {
             virtual Ubuntu. Lembre-se de ajustar os caminhos conforme
             necessário, dependendo da versão do JDK que você instalou.
           </div>
-          <video src={videoSOP} controls autoplay loop className="w-full" />
+          <video src={videoSOP} controls autoplay className="w-full" />
         </div>
 
         <div
