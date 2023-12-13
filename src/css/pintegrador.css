@@ -1,4 +1,9 @@
-#btnHare:focus ~ #hare,
-#btnSop:focus ~ #sop {
+#btnHare:checked ~ #hare,
+#btnSop:checked ~ #sop {
+  display: block;
+}
+
+#hare:focus,
+#sop:focus{
   display: block;
 }
