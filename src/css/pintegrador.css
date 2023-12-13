@@ -1,4 +1,9 @@
-#btnHare:focus ~ #hare,
-#btnSop:focus ~ #sop {
+#btnHare:checked ~ #hare,
+#btnSop:checked ~ #sop{
   display: block;
+}
+
+#btnHare:focus + label,
+#btnSop:focus + label{
+  background-color: #DB8A98;
 }

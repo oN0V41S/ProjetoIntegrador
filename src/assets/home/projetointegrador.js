@@ -13,7 +13,8 @@ export default function ProjetoIntegrador() {
         <input
           id="btnHare"
           type="radio"
-          value="unidade"
+          value="hare"
+          name="unidade"
           className="opacity-0 absolute pointer-events-none"
         />
         <label
@@ -26,7 +27,8 @@ export default function ProjetoIntegrador() {
         <input
           id="btnSop"
           type="radio"
-          value="unidade"
+          value="sop"
+          name="unidade"
           className="opacity-0 absolute pointer-events-none"
         />
         <label
@@ -117,7 +119,7 @@ export default function ProjetoIntegrador() {
             ~Maquina Virtual: Virtual Box; <br /> <br />
             -Redes: <br /> <br />
             -Acesso a rede: Rede Cabeada/ Wireless & Ethernet; <br />
-            <div class="flex">
+            <div class="flex flex-col">
               -Internet:
               <ul class="ml-2">
                 <li>IP Publico: 189.108.199.98</li>
