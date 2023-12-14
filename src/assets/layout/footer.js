@@ -72,7 +72,7 @@ export function Devs({ name, github, linkedin, avatar }) {
       id="avatar"
       class="flex flex-col items-center m-auto gap-4 w-max mb-8 md:mb-2"
     >
-      <img class="w-32 " src={avatar} alt="avatar" />
+      <img class="w-40 md:w-24 lg:w-36" src={avatar} alt="avatar" />
       <h2 class="bg-[#D9D9D9] p-1  pl-4 pr-4 rounded-xl text-black">{name}</h2>
       <div id="espaçamento" class="flex gap-2">
         <a href={github} className="pointer-auto">

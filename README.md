@@ -1,34 +1,23 @@
-<h1 align="center">Projeto Integrador Concluido ✅</h1> 
-<h2 align="center">Curso Técnico na Escola Senai Suíço-Brasileira</h2> 
+# Projeto Integrador - Curso Técnico na Escola Senai Suíço-Brasileira
 
-<p>Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.</p>
+Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.
 
-<h2>Sobre o Projeto Integrador</h2> 
+## Sobre o Projeto Integrador
 
 O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes, representando a aplicação prática de conhecimentos adquiridos durante o semestre em diversas disciplinas do curso.
 
-[Acesse o Site aqui](https://devwizards.netlify.app/)
+## Conteúdo Destacado
 
-## 🚀Instalar e executar o Projeto
-### Pré-requisitos
-- Ter o [NodeJS](https://nodejs.org/en/download/current) Instalado no computador e o [Visual Studio Code](https://visualstudio.microsoft.com/pt-br/downloads/) Para Visualizar o código ou outra IDE.
-- Baixar e abrir o repositório do projeto na sua máquina e abrir o vscode.
+- **Documentação Detalhada:** Explore a [documentação completa](documentacao/README.md) que descreve a concepção, implementação e resultados do Projeto Integrador.
 
+- **Códigos-Fonte:** Navegue pelos [códigos-fonte](codigo-fonte/) do projeto, destacando as habilidades de programação adquiridas.
 
-        npm install - Instala o npm e todas dependências necessárias no projeto.
+- **Recursos Multimídia:** Descubra apresentações visuais, vídeos e outros [recursos multimídia](multimidia/) que complementam a compreensão do projeto.
+
+- **Feedback e Avaliação:** Compartilhe experiências e aprendizados, incluindo feedback recebido e avaliações obtidas durante a [apresentação do projeto](feedback/).
+
+## Instalação
+
+    npm install - Instala o npm e todas dependências necessárias no projeto.
     
-        npm run start - Executa o Projeto em um cenário de teste.
-
-## ⚙️Tecnologias
-- **Trello** - Gerenciamento de Projeto.
-- **Figma** - Para prototipar as telas do site.
-- **ReactJS** - Biblioteca para criação de Front-End.
-- **TailwindCSS** - Para Estilizar a página.
-- **Canva** - Criação de Vídeo.
-
-## 📝Criado e Desenvolvido por:
-#### Anderson Santos [GitHub](https://github.com/andersonbs96 ) 
-#### Daniel Medrado [Github](https://github.com/ren-angel) 
-#### Hiago Rodrigues [Github](https://github.com/HyRss) 
-#### Lucas Vasconselhos [Github](https://github.com/LucasVasconcelosDev) 
-#### Rafael Novais [Github](https://github.com/oN0V41S) 
+    npm run start - Executa o Projeto em um cenário de teste.
