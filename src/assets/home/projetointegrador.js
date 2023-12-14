@@ -9,7 +9,7 @@ export default function ProjetoIntegrador() {
       <h1 className="w-max ml-auto mr-auto text-2xl md:text-4xl mt-4 mb-4">
         Projeto Integrador
       </h1>
-      <div className="w-full  p-4 rounded-nm  gap-8 grid grid-cols-1 md:grid-cols-2">
+      <div className="w-full  p-4 rounded-nm min-h-[20vw] gap-8 grid grid-cols-1 md:grid-cols-2">
         <input
           id="btnHare"
           type="radio"
