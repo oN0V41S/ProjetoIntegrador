@@ -15,3 +15,8 @@ O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes, rep
 - **Recursos Multimídia:** Descubra apresentações visuais, vídeos e outros [recursos multimídia](multimidia/) que complementam a compreensão do projeto.
 
 - **Feedback e Avaliação:** Compartilhe experiências e aprendizados, incluindo feedback recebido e avaliações obtidas durante a [apresentação do projeto](feedback/).
+
+##Instalalção
+
+- **npm install** Instala o npm e todas dependências necessárias no projeto.
+- **npm run start** Executa o Projeto em um cenário de teste.
