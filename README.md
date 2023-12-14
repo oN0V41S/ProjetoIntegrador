@@ -11,8 +11,8 @@ O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes, rep
 
 ## 🚀Instalar e executar o Projeto
 ### Pré-requisitos
-- Ter o NodeJS Instalado no computador.
-- Visual Studio Para Visualizar o código ou outra IDE.
+- Ter o [NodeJS](https://nodejs.org/en/download/current) Instalado no computador e o [Visual Studio Code](https://visualstudio.microsoft.com/pt-br/downloads/) Para Visualizar o código ou outra IDE.
+- Baixar e abrir o repositório do projeto na sua máquina e abrir o vscode.
 
 
         npm install - Instala o npm e todas dependências necessárias no projeto.
