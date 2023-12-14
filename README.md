@@ -26,8 +26,8 @@ O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes, rep
 - **Canva** - Criação de Vídeo.
 
 ## Criado e Desenvolvido por:
-### Anderson Santos [GitHub](https://github.com/andersonbs96)
-### Daniel Medrado [Github](https://github.com/ren-angel)
-### Hiago Rodrigues [Github](https://github.com/HyRss)
-### Lucas Vasconselhos [Github](https://github.com/LucasVasconcelosDev)
-## Rafael Novais [Github](https://github.com/oN0V41S)
+#### Anderson Santos [GitHub](https://github.com/andersonbs96 ) 
+#### Daniel Medrado [Github](https://github.com/ren-angel) 
+#### Hiago Rodrigues [Github](https://github.com/HyRss) 
+#### Lucas Vasconselhos [Github](https://github.com/LucasVasconcelosDev) 
+#### Rafael Novais [Github](https://github.com/oN0V41S) 
