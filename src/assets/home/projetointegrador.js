@@ -19,7 +19,7 @@ export default function ProjetoIntegrador() {
         />
         <label
           for="btnHare"
-          className="h-max w-max bg-card2 p-2 ml-4 rounded-md grid-cols-span-2"
+          className="h-max w-max bg-card2 p-2 m-auto rounded-md grid-cols-span-2"
         >
           Hardware e Redes
         </label>
@@ -33,7 +33,7 @@ export default function ProjetoIntegrador() {
         />
         <label
           for="btnSop"
-          className="h-max w-max bg-card2 p-2 ml-4 rounded-md grid-cols-span-2"
+          className="h-max w-max bg-card2 p-2 m-auto rounded-md grid-cols-span-2"
         >
           Sistemas Operacionais
         </label>
