@@ -21,7 +21,7 @@ export default function ProjetoIntegrador() {
           for="btnHare"
           className="h-max w-max bg-card2 p-2 ml-4 rounded-md grid-cols-span-2"
         >
-          HARE
+          Hardware e Redes
         </label>
 
         <input
@@ -35,7 +35,7 @@ export default function ProjetoIntegrador() {
           for="btnSop"
           className="h-max w-max bg-card2 p-2 ml-4 rounded-md grid-cols-span-2"
         >
-          SOP
+          Sistemas Operacionais
         </label>
         <div
           id="sop"
