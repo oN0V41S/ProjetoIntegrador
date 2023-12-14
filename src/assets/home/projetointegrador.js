@@ -19,7 +19,7 @@ export default function ProjetoIntegrador() {
         />
         <label
           for="btnHare"
-          className="h-max w-max bg-card2 p-2 m-auto rounded-md grid-cols-span-2"
+          className="h-max w-max bg-card2 p-2 m-auto rounded-md "
         >
           Hardware e Redes
         </label>
