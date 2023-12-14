@@ -1,8 +1,9 @@
-# Projeto Integrador - Curso Técnico na Escola Senai Suíço-Brasileira
+<h1 align="center">Projeto Integrador Concluido ✅</h1> 
+<h2 align="center">Curso Técnico na Escola Senai Suíço-Brasileira</h2> 
 
-Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.
+<p>Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.</p>
 
-## Sobre o Projeto Integrador
+<h2>Sobre o Projeto Integrador</h2> 
 
 O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes, representando a aplicação prática de conhecimentos adquiridos durante o semestre em diversas disciplinas do curso.
 
