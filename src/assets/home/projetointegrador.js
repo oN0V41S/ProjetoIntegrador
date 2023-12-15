@@ -72,8 +72,7 @@ export default function ProjetoIntegrador() {
               <li>
                 5.2. Download do JDK: Na seção "JDK Download", escolha a versão
                 do JDK que deseja instalar (baixe a última versão ou a que for
-                recomendada). Aceite os termos de uso e clique no botão de
-                download adequado ao seu sistema operacional.
+                recomendada).
               </li>
               <li>
                 5.3. Aceitar os Termos de Licença: Após o download, você pode
