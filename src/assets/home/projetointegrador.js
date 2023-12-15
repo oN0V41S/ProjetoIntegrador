@@ -75,12 +75,7 @@ export default function ProjetoIntegrador() {
                 recomendada).
               </li>
               <li>
-                5.3. Aceitar os Termos de Licença: Após o download, você pode
-                ser redirecionado para uma página onde precisa aceitar os termos
-                de licença da Oracle. Faça isso para prosseguir.
-              </li>
-              <li>
-                5.4. Baixar o Arquivo .deb e instale: Na página de download
+                5.3. Baixar o Arquivo .deb e instale: Na página de download
                 real, escolha a versão do JDK e do sistema operacional Linux
                 específicos. Baixe o arquivo .deb correspondente. Após baixar,
                 instale em sua máquina via “Ubuntu Software”.
