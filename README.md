@@ -4,20 +4,11 @@ Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso
 
 ## Sobre o Projeto Integrador
 
-O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes, representando a aplicação prática de conhecimentos adquiridos durante o semestre em diversas disciplinas do curso.
+O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes [Rafael Novais](https://github.com/oN0V41S), [Lucas Vasconselos](), [Daniel](), [Yago]().
 
-## Conteúdo Destacado
+Tem como objetivo exercitar todos os conhecimentos e habilidades desenvolvidas no 1o Semestre do Curso de Desenvolvimento de Sistemas no Senai.
 
-- **Documentação Detalhada:** Explore a [documentação completa](documentacao/README.md) que descreve a concepção, implementação e resultados do Projeto Integrador.
+Assim então, junto do time decidimos desenvolver um site simples assim como a usabilidade, usamos a Biblioteca ReactJs para criar o Front-End, que por si só já disponibiliza todas as ferramentas necessárias para desenvolver uma Página Stática, suprindo a necessidade do projeto.
 
-- **Códigos-Fonte:** Navegue pelos [códigos-fonte](codigo-fonte/) do projeto, destacando as habilidades de programação adquiridas.
+Adicionando somente as informações necessárias para o conteúdo do site.
 
-- **Recursos Multimídia:** Descubra apresentações visuais, vídeos e outros [recursos multimídia](multimidia/) que complementam a compreensão do projeto.
-
-- **Feedback e Avaliação:** Compartilhe experiências e aprendizados, incluindo feedback recebido e avaliações obtidas durante a [apresentação do projeto](feedback/).
-
-## Instalação
-
-    npm install - Instala o npm e todas dependências necessárias no projeto.
-    
-    npm run start - Executa o Projeto em um cenário de teste.
