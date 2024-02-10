@@ -1,4 +1,4 @@
-# Projeto Integrador - Curso Técnico na Escola Senai Suíço-Brasileira
+# Projeto Integrador - Desenvolvimento de Sistemas - Senai
 
 Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.
 
