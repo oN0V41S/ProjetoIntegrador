@@ -5,7 +5,7 @@
 
 O Projeto Integrador tem como objetivo exercitar todos os conhecimentos e habilidades desenvolvidas no 1o Semestre do Curso de Desenvolvimento de Sistemas no Senai.
 
-Buscamos desenvolver aplicação web estática, que pudesse exibir algumas das disciplinas que aprendemos durante o primeiro semestre do curso.
+Buscamos desenvolver aplicação web estática, que pudesse exibir algumas das disciplinas que aprendemos durante o primeiro semestre do curso, adicionamos também algumas informações solicitadas no projeto: Informações de hardware utilizado, e um passo a passo de como instalar máquinas virtuais no Linux e Windows
 
 # Tecnologias
 <img src="https://img.icons8.com/plasticine/100/react.png" width="28"> ReactJS - Utiliado para o desenvolvimento do Front-End
@@ -14,9 +14,17 @@ Buscamos desenvolver aplicação web estática, que pudesse exibir algumas das d
 
 <img src="https://img.icons8.com/color/48/trello.png" width="28">Trello - Utilizado para a divisão e organização de Tarefas do projeto
 
-# Demonstração
+# Como Rodar Projeto
+Instalando Dependências do Node.JS
+```
+npm install
+```
+Executando projeto localmente, por padrão projeto roda na porta 3000 no localhost.
+```
+npm run start
+```
 
-# Equipe
+# Colaboradores
 [Rafael Novais](https://github.com/oN0V41S)
 
 [Lucas Vasconselos](https://github.com/oN0V41S)
