@@ -1,14 +1,28 @@
-# Projeto Integrador - Desenvolvimento de Sistemas - Senai
-
-Bem-vindo ao repositório do Projeto Integrador desenvolvido como parte do curso técnico na Escola Senai Suíço-Brasileira.
+# Projeto Integrador - 2o Semestre
+>SENAI Suiço-Brasileira
 
 ## Sobre o Projeto Integrador
 
-O Projeto Integrador é o resultado do trabalho colaborativo dos estudantes [Rafael Novais](https://github.com/oN0V41S), [Lucas Vasconselos](), [Daniel](), [Yago]().
+O Projeto Integrador tem como objetivo exercitar todos os conhecimentos e habilidades desenvolvidas no 1o Semestre do Curso de Desenvolvimento de Sistemas no Senai.
 
-Tem como objetivo exercitar todos os conhecimentos e habilidades desenvolvidas no 1o Semestre do Curso de Desenvolvimento de Sistemas no Senai.
+Buscamos desenvolver aplicação web estática, que pudesse exibir algumas das disciplinas que aprendemos durante o primeiro semestre do curso.
 
-Assim então, junto do time decidimos desenvolver um site simples assim como a usabilidade, usamos a Biblioteca ReactJs para criar o Front-End, que por si só já disponibiliza todas as ferramentas necessárias para desenvolver uma Página Stática, suprindo a necessidade do projeto.
+# Tecnologias
+<img src="https://img.icons8.com/plasticine/100/react.png" width="28"> ReactJS - Utiliado para o desenvolvimento do Front-End
 
-Adicionando somente as informações necessárias para o conteúdo do site.
+<img src="https://img.icons8.com/color/48/figma--v1.png" width="28">Figma - Utilizado para a prototipação do projeto
+
+<img src="https://img.icons8.com/color/48/trello.png" width="28">Trello - Utilizado para a divisão e organização de Tarefas do projeto
+
+# Demonstração
+
+# Equipe
+[Rafael Novais](https://github.com/oN0V41S)
+
+[Lucas Vasconselos](https://github.com/oN0V41S)
+
+[Anderson](https://github.com/oN0V41S)
+
+[Daniel](https://github.com/oN0V41S)
+
 
